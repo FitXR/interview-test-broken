@@ -30,7 +30,7 @@ function App() {
 
   return (
     <div className="App">
-      {/* Add entries here */}
+      {/* Add code here */}
     </div>
   );
 }
